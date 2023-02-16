@@ -9,8 +9,7 @@ This Repository of data science projects conducted by me for academic, self-lear
 	- [Finding Donors(Supervised Learning)](https://github.com/sagark31/Data_Science_Portfolio/blob/main/portfolio/Finding%20Donor/finding_donors.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
 	- [Customer Segmentation](https://github.com/sagark31/Data_Science_Portfolio/blob/main/portfolio/Customer%20segmentation/customer_segments.ipynb): Analyzing a dataset comprising information on various consumers' annual spending amounts (given in monetary units) across numerous product categories in order to find internal structure, trends, and knowledge.
 	- [Clustering on Credit Card Dataset](https://github.com/sagark31/Data_Science_Portfolio/blob/main/portfolio/Creditcard%20Clustering/Credit_Card_Clustering.ipynb): Clustering is the task of grouping a set of objects in such a way that those in the same group (called a cluster) are more similar to each other than to those in other groups.
-	- [Clustering on Credit Card Dataset](https://github.com/sagark31/Data_Science_Portfolio/blob/main/portfolio/Creditcard%20Clustering/Credit_Card_Clustering.ipynb): Clustering is the task of grouping a set of objects in such a way that those in the same group (called a cluster) are more similar to each other than to those in other groups.
-
+	- [Telecom_Churn_Prediction&Analysis](https://github.com/sagark31/Data_Science_Portfolio/blob/main/portfolio/Telecom%20churn/TELE_COM_CHURN_ML.ipynb):In order to anticipate the churn, I constructed various Machine Learning models after performing statistical and exploratory data analysis on the dataset. This included managing missing values, duplicate values, correlations between variables, and skewness of the data.
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, EDA
 
