@@ -1,5 +1,5 @@
-# Data Science Portfolio
-This Repository of data science projects conducted by me for academic, self-learning, and recreational purposes. Jupyter notebooks are used to present the data.
+# Data Analytics Portfolio
+This Repository of data analytics projects conducted by me for academic, self-learning, and recreational purposes. Jupyter notebooks are used to present the data.
 
 ## Contents
 
